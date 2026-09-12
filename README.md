@@ -1,12 +1,3 @@
-<div align="center">
-  <a href="https://www.gitascii.com">
-    <img
-      src="https://www.gitascii.com/api/Utkarsh-96s"
-      alt="GitAscii Bento Grid Widget"
-      width="100%"
-    />
-  </a>
-</div>
 
 # Hi, I'm Utkarsh R Yadav 👋
 
