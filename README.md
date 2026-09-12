@@ -1,4 +1,10 @@
-# Hi, I'm Utkarsh R Yadav 👋
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/Utkarsh-96s?v=1789214144858"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
 
 **Computer Engineering Undergraduate @ SPPU ('27) | Software Developer & Applied ML Enthusiast**
 
