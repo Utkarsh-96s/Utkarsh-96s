@@ -2,8 +2,8 @@
   "username": "Utkarsh-96s",
   "widgets": [
     {
-      "instanceId": "widget_1789222478311_0",
       "widgetId": "header",
+      "name": "Header Widget",
       "position": {
         "x": 0,
         "y": 0
@@ -12,17 +12,15 @@
         "width": 800,
         "height": 90
       },
-      "config": {
-        "animationType": "fade-in",
-        "animationPreviewKey": 1
-      },
+      "config": {},
       "locked": false,
       "visible": true,
-      "zIndex": 1
+      "zIndex": 1,
+      "instanceId": "widget_1789222946466_0"
     },
     {
-      "instanceId": "widget_1789222478311_1",
       "widgetId": "avatar",
+      "name": "Avatar Widget",
       "position": {
         "x": 0,
         "y": 106
@@ -31,19 +29,15 @@
         "width": 150,
         "height": 150
       },
-      "config": {
-        "animationType": "fade-in",
-        "animationPreviewKey": 6,
-        "animationDuration": 3000,
-        "animationDelay": 200
-      },
+      "config": {},
       "locked": false,
       "visible": true,
-      "zIndex": 2
+      "zIndex": 2,
+      "instanceId": "widget_1789222946466_1"
     },
     {
-      "instanceId": "widget_1789222478311_2",
       "widgetId": "bio",
+      "name": "Bio Widget",
       "position": {
         "x": 166,
         "y": 106
@@ -55,11 +49,12 @@
       "config": {},
       "locked": false,
       "visible": true,
-      "zIndex": 3
+      "zIndex": 3,
+      "instanceId": "widget_1789222946466_2"
     },
     {
-      "instanceId": "widget_1789222478311_3",
       "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
       "position": {
         "x": 0,
         "y": 272
@@ -92,11 +87,12 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 4
+      "zIndex": 4,
+      "instanceId": "widget_1789222946466_3"
     },
     {
-      "instanceId": "widget_1789222478311_4",
       "widgetId": "github-readme-stats",
+      "name": "Github-readme-stats Widget",
       "position": {
         "x": 0,
         "y": 428
@@ -108,11 +104,12 @@
       "config": {},
       "locked": false,
       "visible": true,
-      "zIndex": 5
+      "zIndex": 5,
+      "instanceId": "widget_1789222946466_4"
     },
     {
-      "instanceId": "widget_1789222478311_5",
       "widgetId": "streak-stats",
+      "name": "Streak-stats Widget",
       "position": {
         "x": 410,
         "y": 428
@@ -124,11 +121,12 @@
       "config": {},
       "locked": false,
       "visible": true,
-      "zIndex": 6
+      "zIndex": 6,
+      "instanceId": "widget_1789222946466_5"
     },
     {
-      "instanceId": "widget_1789222478311_6",
       "widgetId": "footer",
+      "name": "Footer Widget",
       "position": {
         "x": 0,
         "y": 654
@@ -140,17 +138,19 @@
       "config": {},
       "locked": false,
       "visible": true,
-      "zIndex": 7
+      "zIndex": 7,
+      "instanceId": "widget_1789222946466_6"
     }
   ],
   "globalStyles": {
     "backgroundColor": "#09090b",
-    "borderColor": "#27272a",
     "textColor": "#f4f4f5",
     "accentColor": "#a1a1aa",
+    "borderColor": "#27272a",
     "fontFamily": "'Inter Tight', sans-serif",
     "borderRadius": 12,
-    "transparentBackground": false,
+    "padding": 24,
+    "themeMode": "dark",
     "templateStyle": "bento_grid"
   },
   "templateId": "bento_grid",
