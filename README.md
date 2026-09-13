@@ -9,7 +9,6 @@ I am a third-year Computer Engineering undergraduate at PCET's Nutan Maharashtra
 
 ## 🎯 About Me
 
-* 🎓 **Education:** B.E. in Computer Engineering, SPPU (Expected Graduation: 2027) — **8.82 / 10.0 CGPA**
 * 📍 **Location:** Pune, Maharashtra, India
 * 💻 **Software Engineering:** Full-stack development with modern frontend architectures, asynchronous REST APIs, and relational databases.
 * 🤖 **Applied Machine Learning:** Spatiotemporal modeling, NLP text vectorization, tabular classification, and content-based recommendation systems.
